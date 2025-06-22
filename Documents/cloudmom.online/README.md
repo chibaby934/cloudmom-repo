@@ -1,4 +1,4 @@
-BANING APP DEPLOYMENT.
+BANKING APP INFRACSTRATURE DEPLOYMENT.
 🌥️ Cloudmom Project
 
 Welcome to Cloudmom.online, a cloud-focused application repository dedicated to modern deployment practices, infrastructure automation, and scalable app management. This project serves as a practical base for experimenting with cloud technologies like AWS, Terraform, CI/CD pipelines, and secure deployment standards.
